@@ -13,5 +13,5 @@ Our research interests are centered on (i) finding security problems from real-w
 
 
 <div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/campus.jpeg" style="width: 630px"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/campus.jpeg" class="img-responsive" width="70%"/>
 </div>
