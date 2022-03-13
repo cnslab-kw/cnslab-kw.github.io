@@ -41,8 +41,5 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-N0CXSTPJ8S"
+google_analytics: "G-N0CXSTPJ8S"
 
