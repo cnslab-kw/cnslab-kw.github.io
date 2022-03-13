@@ -27,7 +27,7 @@ permalink: /jinwoo
 
 <div class="col">
 ### <i class="fa-solid fa-user"></i> Short Bio
-I am currently an assistant professor of School of Software at [Kwangwoon University](https://www.kw.ac.kr/en/index.jsp) since March, 2022. Before joining here, I obtained my Ph.D. in School of Electrical Engineering and master degree in Graduate School of Information Security from [KAIST](https://www.kaist.ac.kr/en/) (Advisor: [Prof. Seungwon Shin](http://nss.kaist.ac.kr/?page_id=29). I received my B.S from [Chungnam National University](https://plus.cnu.ac.kr/html/en/). My research interests broadly include cloud and network systems security, Software-Defined Networking (SDN), Network Function Virtualization (NFV), eBPF/XDP, and programmable data-plane.
+I am currently an assistant professor of School of Software at [Kwangwoon University](https://www.kw.ac.kr/en/index.jsp) since March 2022. Before joining here, I obtained my Ph.D. in School of Electrical Engineering and master degree in Graduate School of Information Security from [KAIST](https://www.kaist.ac.kr/en/) (Advisor: [Prof. Seungwon Shin](http://nss.kaist.ac.kr/?page_id=29)). I received my B.S from [Chungnam National University](https://plus.cnu.ac.kr/html/en/). My research interests broadly include cloud and network systems security, Software-Defined Networking (SDN), Network Function Virtualization (NFV), eBPF/XDP, and programmable data-plane.
 </div>
 
 --------------
