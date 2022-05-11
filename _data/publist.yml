@@ -1,6 +1,6 @@
 - title: "EqualNet: A Secure and Practical Defense for Long-term Network Topology Obfuscation"
   authors: Jinwoo Kim, Eduard Marin, Mauro Conti, Seungwon Shin
-  url:
+  url: /papers/equalnet_ndss.pdf
   venue: The Network and Distributed Systems Security Symposium (NDSS) 2022
 
 - title: "A Framework for Policy Inconsistency Detection in Software-Defined Networks"
