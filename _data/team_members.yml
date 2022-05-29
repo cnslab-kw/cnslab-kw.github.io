@@ -2,14 +2,21 @@
   link: jinwoo
   photo: jinwoo.jpg
   info: Assistant Professor
-  email: jinwookim@kw.ac.kr
+  email: jinwookim (at) kw.ac.kr
 
-- name: "Join us!"
-  photo: bio-photo.jpg
-  info: See <a href="../openings">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+- name: "Junhee Lee"
+  link: 
+  photo: junhee.jpg
+  info: Undergraduate Intern
+  email: hunroung (at) kw.ac.kr
+  research: Container, Security, Cloud Computing
+
+#- name: Junhee Lee
+#  photo: bio-photo.jpg
+#  info: See <a href="../openings">openings</a> for more info
+#  email: milan.allan@gmail.com
+#  number_educ: 0
+#  education1:
+#  education2:
+#  education3:
+#  education4:
