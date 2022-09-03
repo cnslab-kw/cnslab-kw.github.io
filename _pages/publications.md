@@ -19,6 +19,7 @@ permalink: /publications/
   {% else %}
   <b>{{ publi.title }}</b> <em>(to appear)</em> <br />
   {{ publi.authors }} <br />{{ publi.venue }}
+  {% if publi.rate %} (Acceptance rate: {{ publi.rate }}) {% endif %}
   {% endif %}
 
 {% endfor %}

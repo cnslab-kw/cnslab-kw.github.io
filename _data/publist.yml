@@ -1,3 +1,9 @@
+- title: "Heimdallr: Fingerprinting SD-WAN Control-Plane Architecture via Encrypted Control Traffic"
+  authors: Minjae Seo, Jaehan Kim, Eduard Marin, Myeongsung You, Taejune Park, Seungsoo Lee, Seungwon Shin, <b>Jinwoo Kim</b>
+  url: 
+  venue: The Annual Computer Security Applications Conference (ACSAC) 2022
+  rate: 24%
+
 - title: "EqualNet: A Secure and Practical Defense for Long-term Network Topology Obfuscation"
   authors: Jinwoo Kim, Eduard Marin, Mauro Conti, Seungwon Shin
   url: /papers/equalnet_ndss.pdf
