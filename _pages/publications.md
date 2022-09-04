@@ -12,15 +12,25 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-  {% if publi.url %}
-  <b>{{ publi.title }}</b> <a href="{{ site.url }}{{ publi.url }}">(paper)</a><br />
-  {{ publi.authors }} <br />{{ publi.venue }}
+  <b>{{ publi.title }} </b> 
 
+  {%- if publi.url -%}
+  <a href="{{ site.url }}{{ publi.url }}">(paper)</a><br />
   {% else %}
-  <b>{{ publi.title }}</b> <em>(to appear)</em> <br />
-  {{ publi.authors }} <br />{{ publi.venue }}
+  <em>(to appear)</em> <br />
+  {%- endif -%}
+
+  {% assign authors = publi.authors | split: ", " %}
+  {%- for author in authors -%} 
+  	{%- if author contains "Jinwoo Kim" -%}<em><b>{{author}}</b></em>
+  	{%- else -%}{{ author }}
+  	{%- endif -%}
+	{% unless forloop.last %}, {% endunless %}
+  {%- endfor -%}
+  
+  <br>
+  {{ publi.venue }}
   {% if publi.rate %} (Acceptance rate: {{ publi.rate }}) {% endif %}
-  {% endif %}
 
 {% endfor %}
 
