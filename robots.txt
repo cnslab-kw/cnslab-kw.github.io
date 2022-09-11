@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Disallow: /papers/
 sitemap: https://cnslab-kw.github.io/sitemap.xml
