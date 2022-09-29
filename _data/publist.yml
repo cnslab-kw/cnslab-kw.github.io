@@ -19,12 +19,12 @@
 - title: "A Framework for Policy Inconsistency Detection in Software-Defined Networks"
   authors: Seungsoo Lee, Seungwon Woo, Jinwoo Kim, Jaehyun Nam, Vinod Yegneswaran, Phillip Porras, Seungwon Shin
   url: /papers/audisdn_ton.pdf
-  venue: IEEE/ACM Transactions on Networking 2022 (SCIE Journal, JCI Q1)
+  venue: IEEE/ACM Transactions on Networking 2022 (SCIE Journal, JIF Quartile Q1)
 
 - title: "BottleNet: Hiding Network Bottlenecks Using SDN-Based Topology Deception"
   authors: Jinwoo Kim, Jaehyun Nam, Suyeol Lee, Vinod Yegneswaran, Phillip Porras, Seungwon Shin
   url: /papers/bottlenet_tifs.pdf
-  venue: IEEE Transactions on Information Forensics and Security 2021 (SCIE Journal, JCI Q1)
+  venue: IEEE Transactions on Information Forensics and Security 2021 (SCIE Journal, JIF Quartile Q1)
 
 - title: "AudiSDN: Automated Detection of Network Policy Inconsistencies in Software-Defined Networks"
   authors: Seungsoo Lee, Seungwon Woo, Jinwoo Kim, Vinod Yegneswaran, Phillip Porras, Seungwon Shin
@@ -34,13 +34,13 @@
 - title: "GapFinder: Finding Inconsistency of Security Information From Unstructured Text"
   authors: Hyeonseong Jo, Jinwoo Kim, Phillip Porras, Vinod Yegneswaran, Seungwon Shin
   url: /papers/gapfinder_tifs.pdf
-  venue: IEEE Transactions on Information Forensics and Security 2020 (SCIE Journal, JCI Q1)
+  venue: IEEE Transactions on Information Forensics and Security 2020 (SCIE Journal, JIF Quartile Q1)
   news2: 
 
 - title: "A Comprehensive Security Assessment Framework for Software-Defined Networks"
   authors: Seungsoo Lee, Jinwoo Kim, Seungwon Woo, Changhoon Yoon, Sandra Scott-Hayward, Vinod Yegneswaran, Phillip Porras, Seungwon Shin
   url: /papers/delta_comsec.pdf
-  venue: Elsevier Computers & Security 2020 (SCIE Journal, JCI Q2)
+  venue: Elsevier Computers & Security 2020 (SCIE Journal, JIF Quartile Q2)
 
 - title: "AudiSDN: Automated Detection of Network Policy Inconsistencies in Software-Defined Networks"
   authors: Seungsoo Lee, Seungwon Woo, Jinwoo Kim, Vinod Yegneswaran, Phillip Porras, Seungwon Shin
