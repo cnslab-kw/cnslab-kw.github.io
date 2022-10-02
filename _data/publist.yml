@@ -42,11 +42,6 @@
   url: /papers/delta_comsec.pdf
   venue: Elsevier Computers & Security 2020 (SCIE Journal, JIF Quartile Q2)
 
-- title: "AudiSDN: Automated Detection of Network Policy Inconsistencies in Software-Defined Networks"
-  authors: Seungsoo Lee, Seungwon Woo, Jinwoo Kim, Vinod Yegneswaran, Phillip Porras, Seungwon Shin
-  url: /papers/audisdn_infocom.pdf
-  venue: IEEE Conference on Computer Communications (INFOCOM) 2020
-
 - title: "Re-checker: Towards Secure Restful Service in Software-Defined Networking"
   authors: Seungwon Woo, Seungsoo Lee, Jinwoo Kim, Seungwon Shin
   url: /papers/rechecker_nfvsdn.pdf
