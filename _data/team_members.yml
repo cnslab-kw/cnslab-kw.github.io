@@ -11,12 +11,10 @@
   email: hunroung (at) kw.ac.kr
   research: Container, Security, Cloud Computing
 
-#- name: Junhee Lee
-#  photo: bio-photo.jpg
-#  info: See <a href="../openings">openings</a> for more info
-#  email: milan.allan@gmail.com
-#  number_educ: 0
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+- name: "Jiyoung Choi"
+  link: 
+  photo: jiyoung.jpg
+  info: Undergraduate Intern
+  email: qq8501 (at) kw.ac.kr
+  research: Deep Learning, Security, Web service
+
