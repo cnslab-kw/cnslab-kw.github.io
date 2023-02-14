@@ -1,4 +1,7 @@
-# CNS Lab Website
+# C^2NS Lab Website Archive
 
-Copyright CNS Lab @ Kwangwoon University. Code released under the MIT License.
+https://sites.google.com/view/c2nslab/
+
+Copyright C^2NS Lab @ Kwangwoon University. Code released under the MIT License.
+
 
