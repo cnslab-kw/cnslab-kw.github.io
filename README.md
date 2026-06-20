@@ -2,6 +2,6 @@
 
 https://sites.google.com/view/c2nslab/
 
-Copyright C^2NS Lab @ Kwangwoon University. Code released under the MIT License.
+Copyright C2NS Lab @ Chungbuk National University. Code released under the MIT License.
 
 
